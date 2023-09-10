@@ -25,3 +25,30 @@
 #container a {
   text-decoration: none;
 }
+.card-datos{
+  width: 40rem;
+  height: 25rem;
+}
+.container-card{
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  
+}
+#titulo-home{
+  margin-top: 2rem;
+  font-size: xx-large;
+}
+.btn-guardar{
+  margin-bottom: 2rem;
+}
+.btn-limpiar {
+  margin-top: 20px; 
+  display: flex;
+  justify-content: center;
+}
+
+.hide-element {
+  opacity: 0;
+  display: none;
+}
